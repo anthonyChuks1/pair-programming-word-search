@@ -34,4 +34,5 @@ const wordSearch = (letters, word) => {
     
 };
 
+
 module.exports = wordSearch;
