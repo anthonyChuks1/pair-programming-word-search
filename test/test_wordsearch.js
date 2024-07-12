@@ -47,6 +47,7 @@ describe("#wordSearch()", function() {
       ['O', 'D', 'C', 'A', 'K', 'U', 'A', 'S'],
       ['E', 'Z', 'K', 'F', 'Q', 'U', 'A', 'L'],
     ], 'ASYHWBUOE');
+    
 
     assert.isTrue(result);
   });
